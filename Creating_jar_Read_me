@@ -1,1 +1,5 @@
 
+run in directory:> mvnw clean install
+#jar will be available in the project directory/target
+
+to run jar :> java -jar target/course-api-data-0.0.1-SNAPSHOT.jar
